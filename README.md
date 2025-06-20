@@ -41,7 +41,7 @@ This project is designed to enhance urban mobility through adaptive signal contr
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/smart-traffic-control.git
+   git clone https://github.com/Rakksitha/smart-traffic-control.git
    cd smart-traffic-control
 
 2. **Install Dependencies**
